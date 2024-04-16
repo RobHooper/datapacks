@@ -1,12 +1,12 @@
 # Monster Madness
 This data pack dials the dungeon (monster room) spawner settings up to 11.
 
-My aims were:
+My aims:
 * Maintain a vanilla feel
 * Increase challenge
 * Improve rewards
 
-This is a hommage to a very old Minecraft mod that achieved this 10 years ago!
+This is a homage to a very old Minecraft mod that achieved this 10 years ago!
 
 
 ## Installation
